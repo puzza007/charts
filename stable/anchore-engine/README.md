@@ -121,7 +121,7 @@ coreConfig:
         bucket: 'anchorearchive'
         create_bucket: True
     compression:
-    ... # Compression ocnfig here
+    ... # Compression config here
 ```
 
 Using Swift:
